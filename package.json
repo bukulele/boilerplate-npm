@@ -2,6 +2,11 @@
   "author": "Nikita Sazonov",
   "name": "fcc-learn-npm-package-json",
   "description": "this is the wow-app",
+  "keywords": [
+    "super",
+    "puper",
+    "great"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
